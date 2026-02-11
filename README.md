@@ -64,7 +64,7 @@ streamlit run centurion.py
 
 > **Forensic Note:** This platform is designed for professional legal environments where precision and auditability are non-negotiable. It implements strict guardrails against "Shadow AI" actions through persistent monitoring and human-in-the-loop checkpoints.
 
-**Would you like me to create the `requirements.txt` file for you now so you can push it along with this README?**
+
 
 <!--
 **SENTINEL-Legal-tech/SENTINEL-LEGAL-TECH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
