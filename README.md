@@ -1,6 +1,3 @@
-## Hi there 👋
-Here is a professional, high-impact description and `README.md` content designed specifically for a GitHub repository. This positions **SENTINEL** not just as a "tool," but as an **enterprise-grade litigation infrastructure**.
-
 ---
 
 # SENTINEL: Strategic Intelligence Architect
