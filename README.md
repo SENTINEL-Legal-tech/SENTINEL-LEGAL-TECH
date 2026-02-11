@@ -1,3 +1,5 @@
+
+
 ---
 
 # SENTINEL: Strategic Intelligence Architect
@@ -60,6 +62,7 @@ streamlit run centurion.py
 ---
 
 > **Forensic Note:** This platform is designed for professional legal environments where precision and auditability are non-negotiable. It implements strict guardrails against "Shadow AI" actions through persistent monitoring and human-in-the-loop checkpoints.
+
 
 
 
