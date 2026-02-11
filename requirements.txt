@@ -1,0 +1,11 @@
+streamlit
+requests
+pypdf
+openai
+python-dotenv
+langchain-community
+langchain-huggingface
+textblob
+duckduckgo-search
+supabase
+tavily-python
